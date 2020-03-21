@@ -1,8 +1,18 @@
 #testSwapOne {
-    color: green;
-    /* background-color: green; */
+  color: green;
+  /* background-color: green; */
 }
 
 #testSwapTwo {
-    color: blue;
+  color: blue;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+.wrapper {
+    padding: 25px;
 }
